@@ -93,6 +93,25 @@ const jokes = [
   "Why did the golfer bring an extra pair of pants? In case he got a hole in one.",
   "Why don't programmers like nature? It has too many bugs.",
   "What do you call fake spaghetti? An impasta!",
+  "Why don’t skeletons fight each other? They don’t have the guts",
+  "I told my wife she was drawing her eyebrows too high. She looked surprised",
+  "Why did the scarecrow win an award? Because he was outstanding in his field",
+  "What do you call fake spaghetti? An impasta",
+  "I used to play piano by ear, but now I use my hands",
+  "Why don’t oysters donate to charity? Because they’re shellfish",
+  "Why did the coffee file a police report? It got mugged",
+  "Parallel lines have so much in common. It’s a shame they’ll never meet",
+  "I’m reading a book on anti-gravity. It’s impossible to put down!",
+  "Why did the bicycle fall over? It was two-tired",
+  "I told my computer I needed a break, and now it’s frozen",
+  "What did the zero say to the eight? Nice belt!",
+  "I couldn’t figure out why I wasn’t getting any sleep, then I realized it was because I had too many sleepless nights",
+  "Why do cows wear bells? Because their horns don’t work",
+  "What do you call cheese that isn’t yours? Nacho cheese",
+  "I used to play soccer, but I couldn’t get the goal right. It was a penalty!",
+  "What do you call a pile of cats? A meow-tain", "I tried to catch some fog yesterday. I mist",
+  "Why don’t some couples go to the gym? Because some relationships don’t work out",
+  "I don’t trust stairs. They’re always up to something"
 ];
 
 function displayJoke(){
