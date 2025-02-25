@@ -85,7 +85,7 @@ const jokes = [
   "I’m reading a book on anti-gravity. It’s impossible to put down!",
   "Why do cows wear bells? Because their horns don’t work.",
   "What do you call cheese that isn’t yours? Nacho cheese.",
-  "What did one ocean say to the other? Nothing, they just waved."
+  "What did one ocean say to the other? Nothing, they just waved.",
   "I have an inferiority complex, but it's not a very good one.",
   "What do you call a lazy kangaroo? A pouch potato.",
   "My wife and I laugh about how competitive we are. But I laugh more.",
