@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Joke Generator</title>
+    <link id="theme" rel="stylesheet" href="style1.css">
+    <link rel="shortcut icon" href="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/1e/db/22/1edb220b-d9d8-70f3-37d7-611909fde2e4/source/512x512bb.jpg" type="image/x-icon">
+</head>
+<body>
+    <button class="themeSwitch" onclick="themeSwitcher()"><img class="themeButton" src="SVG/theme.svg" alt="theme switch"></button>
+
+    <div id="container">
+        <p class="title">Random Joke Of the Day</p>
+        <div id="buttonSection">
+            <button onclick="readAloud()" class="reloadButton">Read <img class="themeButton" src="SVG/read.svg" alt="readAloud"></button>
+            <button onclick="displayJoke()" class="reloadButton">Reload <img class="themeButton" src="SVG/reload.svg" alt="reloadButton"></button>
+            <button onclick="copyToClipboard()" class="reloadButton">Copy <img class="themeButton" src="SVG/copy.svg" alt="copyToClipboard"></button>
+            <button onclick="shareOnWhatsApp()" class="reloadButton">Share <img src="SVG/share.svg" alt="shareOnWhatsApp"></button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
