@@ -1,27 +1,41 @@
 # Random Joke Generator
 
-Welcome to the Random Joke Generator! This web application generates random jokes from a collection of 100 jokes. The project is built using HTML, CSS, and JavaScript.
+[![Live Site](https://img.shields.io/badge/Render-Live%20Site-brightgreen)](https://your-render-url.onrender.com)
 
-## Table of Contents
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Interface](#interface)
+A fun and interactive Random Joke Generator that fetches hilarious jokes, supports theme switching, allows copying/sharing jokes, and even reads them aloud with a built-in speech feature. Built using **HTML**, **CSS**, **JavaScript**, and powered with an **Express.js backend** for deployment.
 
-## Features
-- Generates random jokes from a predefined list of **100 jokes**.
-- **Simple** and **user-friendly** interface.
-- Responsive design for **mobile** and **desktop** users.
-- **Reload functionality** to display a new joke when the reload button is clicked.
+---
 
-## Demo
-You can see a live demo of the Random Joke Generator [**here**](https://darling-babka-53a323.netlify.app/).
+## ✨ Features
 
-## Technologies Used
-- **HTML**
-- **CSS**
-- **JavaScript**
+- 🔁 Fetches random jokes from an external API
+- 🎨 Dark/Light mode toggle with persistent theme (via `localStorage`)
+- 📋 Copy jokes to clipboard
+- 📱 Share jokes on WhatsApp
+- 🔊 Read aloud with speech synthesis (click-to-toggle playback)
+- 🖥️ Express.js server setup for smooth deployment
+- 🌐 Hosted for free using Render
 
-## Interface
-![Interface](https://github.com/user-attachments/assets/8a05e8e9-759d-442e-ad33-9849bac1b66c)
+---
 
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Deployment**: Render
+
+---
+
+## 🚀 Live Demo
+
+Click below to check out the live version:
+
+[![Live Site](https://img.shields.io/badge/Render-Live%20Site-brightgreen)](https://your-render-url.onrender.com)
+
+---
+
+## 💻 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Preritmujoo/Random-Joke-Generator.git
