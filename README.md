@@ -59,6 +59,8 @@ Random-Joke-Generator/
 ---
 
 ## 📷 Preview
+### Dark Mode
+![Dark Mode](https://github.com/user-attachments/assets/cfc91f34-f0f6-4d4d-bc44-f33320a2c8a7)
 
-![Dark Mode](https://your-screenshot-url)  
-![Light Mode](https://your-screenshot-url)  
+### Light Mode
+![Light Mode](https://github.com/user-attachments/assets/8ce5fc54-5a28-4fb0-aee1-594dc57a5b42)
